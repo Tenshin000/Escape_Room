@@ -1,0 +1,5 @@
+DATABASE GIOCATORI 
+USERNAME PASSWORD
+Utente    Srclrc    
+Player    Njywcp    
+Mhanz    Kfylx    
